@@ -1,11 +1,10 @@
 {
       "name"                        : "em-rest"
     , "description"                 : "rest service middleware for ee-webservice"
-    , "version"                     : "0.1.9"
+    , "version"                     : "0.1.10"
     , "homepage"                    : "https://github.com/eventEmitter/em-rest"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                     : "mit"
-    , "os"                          : "linux"
     , "repository": {
           "url"                     : "https://github.com/eventEmitter/em-rest.git"
         , "type"                    : "git"
